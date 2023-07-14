@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.13)  14 JUL 2023 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.13)  14 JUL 2023 19:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1945,6 +1945,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 Package newfloat Info: `rotating' package detected.
 Package newfloat Info: `wrapfig' package detected.
 Package hyperref Info: Link coloring ON on input line 103.
+ (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
@@ -1978,9 +1979,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 103.
 Package biblatex Info: Reference segment=0 on input line 103.
 LaTeX Font Info:    Font shape `T1/opensans-TLF/b/n' will be
@@ -1992,7 +1992,7 @@ LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
 (Font)              scaled to size 5.0pt on input line 105.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 105.
-(c:/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
+ (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -2081,15 +2081,6 @@ LaTeX Font Info:    Font shape `TS1/opensans-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 1.
 LaTeX Font Info:    Font shape `TS1/opensans-TLF/m/n' will be
 (Font)              scaled to size 5.0pt on input line 1.
-
-LaTeX Warning: Citation 'Pooley2021' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Bezuidenhout2021' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Brembs2021' on page 1 undefined on input line 3.
-
 ) (./src/chapters/introduction.tex
 LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
@@ -2111,20 +2102,7 @@ LaTeX Font Info:    Font shape `T1/opensans-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 6.
 LaTeX Font Info:    Font shape `T1/opensans-TLF/b/it' will be
 (Font)              scaled to size 9.0pt on input line 6.
-
-
-LaTeX Warning: Reference `tab:example' on page 1 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig:view' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Reference `fig:fullwidth' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Reference `box:simple' on page 1 undefined on input line 10.
-
-<src/figures/brighton.jpeg, id=10, 2289.55376pt x 3052.40375pt>
+<src/figures/brighton.jpeg, id=17, 2289.55376pt x 3052.40375pt>
 File: src/figures/brighton.jpeg Graphic file (type jpg)
 <use src/figures/brighton.jpeg>
 Package pdftex.def Info: src/figures/brighton.jpeg  used on input line 14.
@@ -2133,12 +2111,6 @@ LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 16.
 LaTeX Font Info:    Font shape `T1/opensans-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 16.
-
-LaTeX Warning: Citation 'Pooley2021' on page 1 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'Brembs2021' on page 1 undefined on input line 24.
-
 
 Underfull \hbox (badness 3312) in paragraph at lines 24--24
 \T1/opensans-TLF/m/n/7 the \side-note pack-age. []Lo-
@@ -2166,19 +2138,12 @@ Underfull \hbox (badness 1253) in paragraph at lines 24--24
 
 LaTeX Font Info:    Font shape `T1/opensans-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 25.
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 25.
-
 [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 25.
-
-[2 <./src/figures/brighton.jpeg>]
+] [2 <./src/figures/brighton.jpeg>]
 Package hyperref Info: bookmark level for unknown featurebox defaults to 0 on input line 28.
-<example-image.pdf, id=37, 321.2pt x 240.9pt>
+<example-image.pdf, id=56, 321.2pt x 240.9pt>
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
 Package pdftex.def Info: example-image.pdf  used on input line 33.
@@ -2187,24 +2152,12 @@ Package mdframed Info: mdframed inside float
  mdframed uses option nobreak mdframed on input line 37.
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 37.
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 62.
-
-[3 <c:/texlive/2022/texmf-dist/tex/latex/mwe/example-image.pdf>]
+ [3 <c:/texlive/2022/texmf-dist/tex/latex/mwe/example-image.pdf>]
 File: src/figures/brighton.jpeg Graphic file (type jpg)
 <use src/figures/brighton.jpeg>
 Package pdftex.def Info: src/figures/brighton.jpeg  used on input line 64.
 (pdftex.def)             Requested size: 406.58981pt x 542.04999pt.
-) (./src/chapters/methods.tex) (./src/chapters/results.tex
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 3.
-
-[4]
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 3.
-
-[5] (./src/tables/simple-table.tex
+) (./src/chapters/methods.tex) (./src/chapters/results.tex [4] [5] (./src/tables/simple-table.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--23
 
  []
@@ -2212,18 +2165,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--23
 )) (./src/chapters/discussion.tex
 Overfull \vbox (8.69196pt too high) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 1.
-
-[6]) (./src/chapters/formal.tex)
-
-LaTeX Warning: Empty bibliography on input line 111.
-
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 123.
-
-[7] (./src/supplementary/appendices.tex
+ [6]) (./src/chapters/formal.tex) [7] (./src/supplementary/appendices.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--25
 
  []
@@ -2247,17 +2189,10 @@ File: src/figures/brighton.jpeg Graphic file (type jpg)
 <use src/figures/brighton.jpeg>
 Package pdftex.def Info: src/figures/brighton.jpeg  used on input line 27.
 (pdftex.def)             Requested size: 377.58539pt x 199.15842pt.
-)
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 127.
-
-[8
+) [8
 
 ] (./src/supplementary/resources.tex) 
 AED: lastpage setting LastPage
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 138.
-
 [9
 
 ] (./main.suppinfo
@@ -2280,41 +2215,30 @@ Package pdftex.def Info: src/figures/brighton.jpeg  used on input line 9.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
 (rerunfilecheck)             After:  AF8953FE21F4A9574310E455B55E560D;2131.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51436 strings out of 476093
- 1028382 string characters out of 5795583
- 1889537 words of memory out of 5000000
- 70885 multiletter control sequences out of 15000+600000
- 592940 words of font info for 201 fonts, out of 8000000 for 9000
+ 51499 strings out of 476093
+ 1029939 string characters out of 5795583
+ 1892268 words of memory out of 5000000
+ 70937 multiletter control sequences out of 15000+600000
+ 593820 words of font info for 203 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,131p,1160b,1824s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/opensans/a_jg4h6q.enc} <c:/Users/paul/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.450pk>{c:/texlive/2022/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc} <c:/Users/paul/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.420pk><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathcal.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathscr.pfb>
-Output written on main.pdf (11 pages, 1550322 bytes).
+ 99i,16n,131p,2554b,1783s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/opensans/a_jg4h6q.enc} <c:/Users/paul/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.450pk>{c:/texlive/2022/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc} <c:/Users/paul/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.420pk><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-BoldItalic.pfb><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb><c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathcal.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/stix/stix-mathscr.pfb>
+Output written on main.pdf (11 pages, 1568833 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
  22039 words of extra memory for PDF output out of 24883 (max. 10000000)
 

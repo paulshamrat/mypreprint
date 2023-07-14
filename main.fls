@@ -1731,6 +1731,16 @@ INPUT c:/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+INPUT ./main.out
+INPUT main.out
+INPUT ./main.out
+INPUT main.out
+INPUT ./main.out
+INPUT main.out
+INPUT ./main.out
+INPUT main.out
+INPUT ./main.out
+INPUT ./main.out
 OUTPUT main.out
 OUTPUT main.pdf
 INPUT c:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
@@ -1742,6 +1752,12 @@ INPUT c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 OUTPUT main.bcf
+INPUT main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Bold-T1-TLF.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Bold-T1-TLF.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-T1-TLF.tfm
@@ -1973,10 +1989,10 @@ INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Regular-T1-
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-T1-TLF--base.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Bold-T1-TLF.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Bold-T1-TLF--base.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Bold-T1-TLF.vf
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Bold-T1-TLF--base.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Regular-T1-TLF.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-T1-TLF--base.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-BoldItalic-T1-TLF.vf
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-BoldItalic-T1-TLF--base.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Italic-T1-TLF.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Italic-T1-TLF--base.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Bold-T1-TLF.vf
@@ -2012,6 +2028,8 @@ INPUT ./src/chapters/results.tex
 INPUT src/chapters/results.tex
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Regular-TS1-TLF.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-TS1-TLF--base.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Bold-T1-TLF.vf
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Bold-T1-TLF--base.tfm
 INPUT ./src/tables/simple-table.tex
 INPUT src/tables/simple-table.tex
 INPUT ./src/tables/simple-table.tex
@@ -2030,6 +2048,8 @@ INPUT src/chapters/formal.tex
 INPUT ./src/chapters/formal.tex
 INPUT ./src/chapters/formal.tex
 INPUT src/chapters/formal.tex
+INPUT c:/texlive/2022/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Italic-T1-TLF.vf
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Italic-T1-TLF--base.tfm
 INPUT ./src/supplementary/appendices.tex
 INPUT src/supplementary/appendices.tex
 INPUT ./src/supplementary/appendices.tex
@@ -2059,6 +2079,7 @@ INPUT ./src/figures/brighton.jpeg
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
@@ -2067,6 +2088,7 @@ INPUT c:/Users/paul/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.
 INPUT c:/texlive/2022/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc
 INPUT c:/Users/paul/.texlive2022/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.420pk
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb
+INPUT c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-BoldItalic.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb
