@@ -1,0 +1,182 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bezuidenhout2021}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=ae6362f759ea30cc02ee9cf6d5d01bee}{%
+           family={Bezuidenhout},
+           familyi={B\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5e350e3b3bc60937bc6acc3b94de9915}{%
+           family={Havemann},
+           familyi={H\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {F1000Research}%
+      }
+      \strng{namehash}{4f0b95840e278219189c210ea0013eea}
+      \strng{fullhash}{4f0b95840e278219189c210ea0013eea}
+      \strng{bibnamehash}{4f0b95840e278219189c210ea0013eea}
+      \strng{authorbibnamehash}{4f0b95840e278219189c210ea0013eea}
+      \strng{authornamehash}{4f0b95840e278219189c210ea0013eea}
+      \strng{authorfullhash}{4f0b95840e278219189c210ea0013eea}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background : Digital tools that support open science practices play a key role in the seamless accumulation, archiving and dissemination of scholarly data, outcomes and conclusions. Despite their integration into open science practices, the providence and design of these digital tools are rarely explicitly scrutinized. This means that influential factors, such as the funding models of the parent organizations, their geographic location, and the dependency on digital infrastructures are rarely considered. Suggestions from literature and anecdotal evidence already draw attention to the impact of these factors, and raise the question of whether the open science ecosystem can realise the aspiration to become a truly ``unlimited digital commons'' in its current structure. Methods : In an online research approach, we compiled and analysed the geolocation, terms and conditions as well as funding models of 242 digital tools increasingly being used by researchers in various disciplines. Results : Our findings indicate that design decisions and restrictions are biased towards researchers in North American and European scholarly communities. In order to make the future open science ecosystem inclusive and operable for researchers in all world regions including Africa, Latin America, Asia and Oceania, those should be actively included in design decision processes. Conclusions : Digital open science tools carry the promise of enabling collaboration across disciplines, world regions and language groups through responsive design. We therefore encourage long term funding mechanisms and ethnically as well as culturally inclusive approaches serving local prerequisites and conditions to tool design and construction allowing a globally connected digital research infrastructure to evolve in a regionally balanced manner.}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{9:1292}
+      \field{title}{The Varying Openness of Digital Open Science Tools}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.12688/f1000research.26615.2
+      \endverb
+      \verb{file}
+      \verb /Users/roaldarbol/MEGA/Documents/papers/Bezuidenhout2021.pdf
+      \endverb
+      \keyw{digital,low/middle-income countries,Open Science,reproducible}
+    \endentry
+    \entry{Brembs2021}{article}{}
+      \name{author}{10}{}{%
+        {{hash=885cb8dbc7036b6368e6e863b5580b26}{%
+           family={Brembs},
+           familyi={B\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fd7616b3f7bdd14979b25f8c79222791}{%
+           family={Huneman},
+           familyi={H\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=aac1d10a45e925b01a900d3eebbe764c}{%
+           family={Schönbrodt},
+           familyi={S\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b5e3303deaee9e8c735eaa23a578f59}{%
+           family={Nilsonne},
+           familyi={N\bibinitperiod},
+           given={Gustav},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b507478e329f53b7cbb6e9a974e1a819}{%
+           family={Susi},
+           familyi={S\bibinitperiod},
+           given={Toma},
+           giveni={T\bibinitperiod}}}%
+        {{hash=df2acc0c464eea295cd7e053bf6a1e48}{%
+           family={Siems},
+           familyi={S\bibinitperiod},
+           given={Renke},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c4bd4b62f515786a429ccbe7b69c1521}{%
+           family={Perakakis},
+           familyi={P\bibinitperiod},
+           given={Pandelis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0e7340a3a675889d3fd376e5a40eada1}{%
+           family={Trachana},
+           familyi={T\bibinitperiod},
+           given={Varvara},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9fc5a17ab9e4f5b0a0538b78d8db1ccd}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Lai},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c677c70917ed53507194e160ca5600f5}{%
+           family={{Rodriguez-Cuadrado}},
+           familyi={R\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{052b2546afd04b9c8ecfe2c2026e7384}
+      \strng{fullhash}{baa7815c99af4042cbfe992c5039987a}
+      \strng{bibnamehash}{baa7815c99af4042cbfe992c5039987a}
+      \strng{authorbibnamehash}{baa7815c99af4042cbfe992c5039987a}
+      \strng{authornamehash}{052b2546afd04b9c8ecfe2c2026e7384}
+      \strng{authorfullhash}{baa7815c99af4042cbfe992c5039987a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A major factor underlying several of scholarship's most pressing problems is its antiquated journal system with its trifecta of reproducibility, affordability and functionality crises. Any solution needs to not only solve the current problems but also be capable of preventing a takeover by corporations. Technically, there is broad agreement on the goal for a modern scholarly digital infrastructure: it needs to replace traditional journals with a decentralized, resilient, evolvable network that is interconnected by open standards under the governance of the scholarly community. It needs to replace the monopolies of current journals with a genuine, functioning and well-regulated market. In this new market, substitutable service providers compete and innovate according to the conditions of the scholarly community, avoiding further vendor lock-in. Redirection of funding from the legacy publishers to the new framework may be realized by a tried-and-tested incentive system: Funding agencies have ensured minimum standards at funded institutions by requiring specific infrastructures. These requirements, updated to include the new framework, provide exquisite incentives for institutions to redirect their infrastructure funds from antiquated journals to modern technology. At the same time and enabled by this plan, new, modern and adaptable reputation systems, long demanded by the scientific community, can finally be implemented. Ownership involves socially recognized economic rights, first and foremost the exclusive control over that property, with the self-efficacy it affords. The inability to exert such control over crucial components of their scholarly infrastructure in the face of a generally recognized need for action for over three decades now, evinces the dramatic erosion of real ownership rights for the scholarly community over said infrastructure. Thus, this proposal is motivated not only by the now very urgent need to restore such ownership to the scholarly community, but also by the understanding that through their funding bodies, scholars may have an effective and proven avenue at their disposal to identify game-changing actions and to design a financial incentive structure for recipient institutions that can help realize the restoration of ownership, with the goal to implement open digital infrastructures that are as effective and as invisible as their non-digital counterparts.}
+      \field{journaltitle}{Zenodo}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{title}{Replacing Academic Journals}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.5281/zenodo.5526635
+      \endverb
+      \verb{file}
+      \verb /Users/roaldarbol/MEGA/Documents/papers/Brembs2021.pdf
+      \endverb
+      \keyw{Plan I; infrastructure; journals; scholarship; literature; research data; source code; science}
+    \endentry
+    \entry{Pooley2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2bc9becc1d1f217be4893268e88db866}{%
+           family={Pooley},
+           familyi={P\bibinitperiod},
+           given={Jefferson},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SocArXiv}%
+      }
+      \strng{namehash}{2bc9becc1d1f217be4893268e88db866}
+      \strng{fullhash}{2bc9becc1d1f217be4893268e88db866}
+      \strng{bibnamehash}{2bc9becc1d1f217be4893268e88db866}
+      \strng{authorbibnamehash}{2bc9becc1d1f217be4893268e88db866}
+      \strng{authornamehash}{2bc9becc1d1f217be4893268e88db866}
+      \strng{authorfullhash}{2bc9becc1d1f217be4893268e88db866}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue from prediction products, fueled by data extracted from researcher behavior. The essay begins by tracing the Google search engine's roots in bibliometrics, alongside a history of the citation analysis company that became, in 2016, Clarivate. The point is to show the co-evolution of scholarly communication and the surveillance advertising economy. The essay then refines the idea of surveillance publishing by engaging with the work of Shoshana Zuboff, Jathan Sadowski, Mariano-Florentino Cuéllar, and Aziz Huq. The recent history of Elsevier is traced to describe the company's research-lifecycle data-harvesting strategy, with the aim to develop and sell prediction products to universities and other customers. The essay concludes by considering some of the potential costs of surveillance publishing, as other big commercial publishers increasingly enter the predictive-analytics mark. It is likely, I argue, that windfall subscription-and-APC profits in Elsevier's ``legacy'' publishing business have financed its decade-long acquisition binge in analytics, with the implication that university customers are budgetary victims twice over. The products' purpose, I stress, is to streamline the top-down assessment and evaluation practices that have taken hold in recent decades, in tandem with the view that the university's main purpose is to grow regional and national economies. A final pair of concerns is that publishers' prediction projects may camouflage and perpetuate existing biases in the system—and that scholars may internalize an analytics mindset, one already encouraged by citation counts and impact factors.}
+      \field{langid}{american}
+      \field{month}{11}
+      \field{title}{Surveillance {{Publishing}}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.31235/osf.io/j6ung
+      \endverb
+      \verb{file}
+      \verb /Users/roaldarbol/Zotero/storage/JQAJ7DLY/Pooley - 2021 - Surveillance Publishing.pdf
+      \endverb
+      \keyw{and Technology,Knowledge,Library and Information Science,scholarly communication,Scholarly Communication,scholarly publishing,Scholarly Publishing,Science,Social and Behavioral Sciences,Sociology,sociology of academic life,sociology of science,surveillance capitalism}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
